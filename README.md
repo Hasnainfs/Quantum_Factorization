@@ -77,11 +77,15 @@ def create_custom_shor_circuit():
     return qc
 ## 👨‍💻 Author
 
-**Muhammad Hasnain Falaksher**  
-*Quantum Research Engineer*  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?s=200&v=4" width="120" height="120" style="border-radius:50%;" alt="Muhammad Hasnain Falaksher"/>
+</p>
+
+<p align="center">
+  <b>Muhammad Hasnain Falaksher</b><br>
+  Quantum Research Engineer
+</p>
 
 📍 **Focus Areas:** Quantum Algorithms, Quantum Error Correction, and Circuit Optimization  
 
-🔗 **Connect With Me:**  
-- [mhasnainqau1@gmail.com)  
 
