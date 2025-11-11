@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Qiskit-Logo.svg" width="160" alt="Qiskit Logo"/>
 </p>
 
 <h1 align="center">⚛️ Shor’s Algorithm Simulation using Qiskit</h1>
