@@ -1,5 +1,17 @@
 <p align="center">
 </p>
+👨‍💻 Author
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?s=200&v=4" width="120" height="120" style="border-radius:50%;" alt="Muhammad Hasnain Falaksher"/>
+</p>
+
+<p align="center">
+  <b>Muhammad Hasnain Falaksher</b><br>
+  Quantum Research Engineer
+</p>
+
+📍 **Focus Areas:** Quantum Algorithms, Quantum Error Correction, and Circuit Optimization  
 
 <h1 align="center">⚛️ Shor’s Algorithm Simulation using Qiskit</h1>
 
@@ -75,17 +87,6 @@ def create_custom_shor_circuit():
     # Step 4: Measurement
     qc.measure(range(n_count), range(n_count))
     return qc
-## 👨‍💻 Author
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?s=200&v=4" width="120" height="120" style="border-radius:50%;" alt="Muhammad Hasnain Falaksher"/>
-</p>
-
-<p align="center">
-  <b>Muhammad Hasnain Falaksher</b><br>
-  Quantum Research Engineer
-</p>
-
-📍 **Focus Areas:** Quantum Algorithms, Quantum Error Correction, and Circuit Optimization  
 
 
